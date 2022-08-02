@@ -39,6 +39,7 @@ Adding cover:
 
 Replicating `albums` database:
 ![ch3_7_161303061-9658cdf3-96b2-4332-b726-045272b510c6](https://user-images.githubusercontent.com/95945800/182275252-4714870a-6ca1-437e-b02d-260beceeec3f.png)
+![adding_album_2_161303977-e5f1db4a-0257-428e-8a85-36df51457300](https://user-images.githubusercontent.com/95945800/182276083-c7d6f364-99a0-4a43-86ff-a408654cf4e9.png)
 
 ## Checkpoint 4
 Running year query:
